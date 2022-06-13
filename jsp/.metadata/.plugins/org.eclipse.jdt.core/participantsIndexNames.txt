@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\59013-36-06\eclipse-workspace\jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\759160047.index
+\CalculatriceSimple\src\main\java
+C:\Users\59013-36-06\eclipse-workspace\jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\495543636.index
+\CalSimple\src\main\java

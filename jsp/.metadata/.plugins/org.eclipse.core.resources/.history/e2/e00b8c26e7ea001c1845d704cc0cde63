@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="CalSimple">
+        <property name="context-root" value="CalSimple"/>
+        <property name="java-output-path" value="/CalSimple/build/classes"/>
+    </wb-module>
+</project-modules>
